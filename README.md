@@ -43,7 +43,7 @@ Enjoy the program...
 Credits:
 --------
 
-*Creator: SureRouge502
-*Email (In case you want to contact): iyengara41@gmail.com
-*More of SureRouge502's work at:
- https://github.com/SureRouge502
+Creator: SureRouge502
+Email (In case you want to contact): iyengara41@gmail.com
+More of SureRouge502's work at:
+https://github.com/SureRouge502
